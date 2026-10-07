@@ -1,2 +1,24 @@
-# DurkeePlugin
-Hello. For those who came to this link to learn more about my project, this is a gain slider plug-in that I designed and coded in Visual Studio using JUCE. The program was written in C++ and you can see a picture of it being used in FL Studio in this repository. The project is still being updated with more features as time goes on, such as a distortion panel and more. 
+# Skarper Plugin V2
+Skarper Plugin V2 is a VST3 audio effect developed in C++ using the JUCE framework.
+
+I built the project to gain hands-on experience with real-time audio processing, plugin development, and the software architecture behind tools used in music production.
+
+Features:
+- Real-time gain/saturation control
+- Custom plugin interface
+- VST3 integration with FL Studio & other DAWs
+- Audio parameter handling using JUCE
+
+Technologies:
+- C++
+- JUCE
+- Visual Studio
+- VST3
+- FL Studio
+
+Background:
+I originally started this project while learning C++ audio development and later rebuilt it using a newer JUCE project structure.
+
+The project combines my computer engineering background with my interest in electronic music production and audio technology.
+
+Development is ongoing, with additional DSP and signal-processing functionality planned.
